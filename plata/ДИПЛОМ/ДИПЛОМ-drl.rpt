@@ -1,0 +1,24 @@
+Drill report for ДИПЛОМ.kicad_pcb
+Created on 2026-04-24T00:15:28+0700
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ДИПЛОМ-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (26 holes)
+    T2  0.800mm  0.0315"  (22 holes)
+    T3  1.000mm  0.0394"  (73 holes)
+
+    Total plated holes count 121
+
+
+Drill file 'ДИПЛОМ-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
