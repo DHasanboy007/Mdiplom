@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cbb948d2a8ab886f",
+        "id": "c0876f2ccdd16821",
         "type": "tabs",
         "children": [
           {
-            "id": "b702e1622d4d9684",
+            "id": "502c8fba41beb8e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -177,9 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b702e1622d4d9684",
+  "active": "502c8fba41beb8e3",
   "lastOpenFiles": [
     "Welcome.md",
+    "create a link.md",
     "Diplom.pdf",
     "rasmlar/Rasmlar Anaconda/uart_gpib_ultra_ideal_layout.png",
     "rasmlar/Rasmlar Anaconda/uart_gpib_clean_thesis_system.png",
